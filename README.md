@@ -19,6 +19,6 @@ Just install the requirements and run the script, unless you want to download th
 If you want to install the EXE, just download it and run it from wherever, there's nothing to setup, it looks in the default installation directory ~~not sure if you can even change it~~, and runs the updater with the proxy. If you find a host that I don't have blocked, post it in issues, I'll update the blacklist.
 
 ## Credits:
-[GPMDP](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) is amazing, I love it, and I support that they don't want to add adblock natively. I just don't want ads.
-[inaz2/proxy2](https://github.com/inaz2/proxy2/) was the base for the proxy, just slimmed down to the point it didn't error.
-Basically all of Reddit for the hosts, they're pretty good at linking them to people.
+* [GPMDP](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) is amazing, I love it, and I support that they don't want to add adblock natively. I just don't want ads.
+* [inaz2/proxy2](https://github.com/inaz2/proxy2/) was the base for the proxy, just slimmed down to the point it didn't error.
+* Basically all of Reddit for the hosts, they're pretty good at linking them to people.
