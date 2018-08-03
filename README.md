@@ -10,7 +10,7 @@ This server is not meant to be used in any sort of application besides [GPMDP](h
 ## Requirements:
 * Python 2.x
 * [GPMDP](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
-* Installed requirements from `requirements.txt`
+* `psutil >= 5.4.6`
 
 This program only works on Windows right now, I might start trying to get it to work on Linux and Mac
 
